@@ -1,0 +1,8 @@
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,0
+[InternetShortcut]
+IDList=
+IconIndex=0
+WorkingDirectory=D:\Epic Games
+URL=com.epicgames.launcher://apps/Fortnite?action=launch&silent=true
+IconFile=D:\Epic Games\Fortnite\FortniteGame\Binaries\Win64\FortniteLauncher.exe

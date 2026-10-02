@@ -1,0 +1,3 @@
+[MonitoredItem]
+FeedUrl=http://scn.sap.com/
+IsLivePreview=true

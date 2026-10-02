@@ -1,0 +1,4 @@
+[InternetShortcut]
+URL=steam://rungameid/730
+IconFile=C:\Program Files (x86)\Steam\steam\games\some_icon_hash.ico
+IconIndex=0
